@@ -1,8 +1,15 @@
 body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: rgb(178, 241, 202);
 }
-
+h1 {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: blue;
+}
+ul #messages {
+  list-style-image: url('sqpurple.gif');
+}
 a {
   color: #00B7FF;
 }

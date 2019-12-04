@@ -13,3 +13,6 @@ ul #messages {
 a {
   color: #00B7FF;
 }
+footer {
+  align-content: flex-end;
+}
